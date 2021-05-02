@@ -2,6 +2,7 @@
 
 <img src="https://media.vlpt.us/images/playck/post/a9d39ef2-4ee4-4582-aafe-862a308a301b/B6C897D1-34C8-4572-A543-33CFE8C2204C_1_105_c.jpeg" width="900px" height="450px"> 
 
+## 팀명: SweetHome
 ## 진행기간 : 2021년 2월 15일 ~ 2021년 2월 26일
 
 ## 🔜 FrontEnd
@@ -41,7 +42,7 @@ Django / Python / MySQL / Bcrypt, JWT / AQueryTool / Git & GitHub / AWS EC2, RDS
 FrontEnd
 
 - 상품 페이지 레아아웃 구현
-- 상품 가격순, 리뷰순 등 ordering 기능
+- QueryString을 활용한 상품 다중 필터링 기능
 - Path parameter을 활용한 특정 상품의 페이지로 이동 기능
 - 상품 디테일 페이지 레이아웃 구현
 - 장바구니에 주문 상품 담기 기능
