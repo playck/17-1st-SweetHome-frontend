@@ -1,5 +1,7 @@
 # 오늘의 집 클론 코딩 프로젝트
 
+<img src="https://media.vlpt.us/images/playck/post/a9d39ef2-4ee4-4582-aafe-862a308a301b/B6C897D1-34C8-4572-A543-33CFE8C2204C_1_105_c.jpeg" width="900px" height="450px"> 
+
 ## 진행기간 : 2021년 2월 15일 ~ 2021년 2월 26일
 
 ## 🔜 FrontEnd
@@ -25,69 +27,28 @@
 
 ## 🛠 기술 스택
 FrontEnd 기술 스택
-React
-React Router
-Sass
-Restful API
-Git
+
+React / React Router / Sass / Restful API / Git & Github
+
 
 ## BackEnd 기술 스택
-Django
-Python
-MySQL
-Bcrypt, JWT
-AQueryTool
-Git & GitHub
-AWS EC2, RDS
+
+Django / Python / MySQL / Bcrypt, JWT / AQueryTool / Git & GitHub / AWS EC2, RDS
 
 
-## 🌈 구현 기능
+## 🌈 개인별 구현 기능
 
 FrontEnd
-access token를 활용한 회원가입, 로그인 기능
-공용 Navbar / Foooter 레이아웃 구현
-메인 페이지 레이아웃 구현
-QueryString을 활용한 메인 페이지 피드 필터링 기능
-상품 페이지 레아아웃 구현
-가격순, 리뷰순 등 ordering 기능
-동적 라우팅을 활용한 특정 상품의 페이지로 이동 기능
-상품 디테일 페이지 레이아웃 구현
-해당 상품 리뷰 리스트 레이아웃 구현
-리뷰 쓰기 기능
-장바구니에 주문 상품 담기 기능
-장바구니 레이아웃 구현
-장바구니 주문 상품 수량 변경 및 결제 요청
 
-## BackEnd
-공통
+- 상품 페이지 레아아웃 구현
+- 상품 가격순, 리뷰순 등 ordering 기능
+- Path parameter을 활용한 특정 상품의 페이지로 이동 기능
+- 상품 디테일 페이지 레이아웃 구현
+- 장바구니에 주문 상품 담기 기능
 
-modeling
-db_uploader작성 & CSV 파일 생성(백업용)
-user app
+## 회고록
 
-회원가입 로직
-로그인 로직
-비밀번호 암호화, 토큰 발행
-회원 유효성 판단(login_decorator 작성)
-비회원용 login_decorator (non_user_accept_decorator)작성
-posting app
-
-상품 조건별 정렬 & filtering
-회원유저와 posting간의 좋아요 기능 구현
-회원유저와 posting간의 스크랩 기능 구현
-회원 유저가 로그인 했을 경우 좋아요, 스크랩 상태 반영하여 게시물 데이터 전송
-product app
-
-카테고리별 상품 나열
-상품 조건별 정렬 & filtering
-상품 상세페이지 조회
-상품 리뷰 조회(조건별 정렬)
-order app
-
-장바구니에 상품 담기
-장바구니 내역 조회
-장바구니 수량 변경 및 이에 대한 조회
-
+https://velog.io/@playck/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D
 
 ## ‼️ Reference
 이 프로젝트는 오늘의 집 사이트를 참조하여 학습목적으로 만들었습니다.
