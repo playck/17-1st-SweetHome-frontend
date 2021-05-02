@@ -39,7 +39,8 @@ Django / Python / MySQL / Bcrypt, JWT / AQueryTool / Git & GitHub / AWS EC2, RDS
 
 ## 🌈 개인별 구현 기능
 
-FrontEnd
+FrontEnd 
+김종진
 
 - 상품 페이지 레아아웃 구현
 - QueryString을 활용한 상품 다중 필터링 기능
